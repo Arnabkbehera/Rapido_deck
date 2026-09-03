@@ -1,2 +1,2 @@
-# Rapido_deck
-Market analysis of Rapido
+# Rapido Market Analysis
+Rapido's dominant bike taxi position is both its greatest asset and its greatest vulnerability. The regulatory risk is real and not going away but the path forward is clear: diversify revenue into auto, car, and delivery; build women-safety features to neutralise the political argument for bans; and expand aggressively into Tier-2/3 cities where Rapido's cost structure wins and where regulators are less active. The ₹3,750 Cr SOM vs ₹934 Cr actual revenue gap tells you everything the growth story is not about new markets, it's about capturing what's already in front of them.
